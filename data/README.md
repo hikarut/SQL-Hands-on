@@ -16,7 +16,7 @@
 
 |カラム名|意味|型|備考|
 |:---|:---|:---|:---|
-|produxt_id|商品ID|TEXT||
+|product_id|商品ID|TEXT||
 |name|商品名|TEXT||
 |price|金額|INTEGER||
 |category1|カテゴリ1|TEXT||
