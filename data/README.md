@@ -21,7 +21,6 @@
 |price|金額|INTEGER||
 |category1|カテゴリ1|TEXT||
 |category2|カテゴリ1|TEXT||
-|category3|カテゴリ1|TEXT||
 
 ## order_data
 注文情報が格納されたデータです。
