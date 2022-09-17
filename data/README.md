@@ -7,7 +7,7 @@
 |カラム名|意味|型|備考|
 |:---|:---|:---|:---|
 |user_id|ユーザーID|TEXT||
-|sex|性別|TEXT|女性 / 男性|
+|gender|性別|TEXT|女性 / 男性|
 |birth|誕生日|INTEGER|誕生年が数字で入ります|
 |is_deleted|削除フラグ|INTEGER|0：通常ユーザー <br> 1：削除ユーザー|
 
@@ -22,7 +22,7 @@
 |category1|カテゴリ1|TEXT||
 |category2|カテゴリ1|TEXT||
 
-## order_data
+## orders
 注文情報が格納されたデータです。
 
 |カラム名|意味|型|備考|
